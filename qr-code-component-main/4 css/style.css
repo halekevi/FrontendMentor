@@ -1,0 +1,35 @@
+body {
+    margin:auto;
+    background-color: hsl(212, 45%, 89%);
+    font-family: "Outfit", sans-serif;
+    }
+
+div {
+    margin: auto;
+    margin-top: 2%;
+    background-color: white;
+    width: 640px;
+    height: 80%;
+    border-radius: 25px;
+}
+
+section {
+    font-size: 25px;
+    
+}
+
+section.projectSolution {
+    padding: 0% 10%;
+    text-align: center;
+}
+
+section p {
+    font-size: 25px;
+    color: hsl(220, 15%, 55%);
+    text-align: center;
+    padding: 10% 0% 20%;
+}
+
+img {
+    border-radius: 25px;
+}
